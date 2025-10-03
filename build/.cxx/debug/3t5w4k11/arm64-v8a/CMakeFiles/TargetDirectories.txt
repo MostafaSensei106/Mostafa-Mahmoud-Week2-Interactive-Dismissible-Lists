@@ -1,2 +1,0 @@
-/home/ottafa/Dev/Mostafa-Mahmoud-Week2-Interactive-Dismissible-Lists/build/.cxx/debug/3t5w4k11/arm64-v8a/CMakeFiles/edit_cache.dir
-/home/ottafa/Dev/Mostafa-Mahmoud-Week2-Interactive-Dismissible-Lists/build/.cxx/debug/3t5w4k11/arm64-v8a/CMakeFiles/rebuild_cache.dir

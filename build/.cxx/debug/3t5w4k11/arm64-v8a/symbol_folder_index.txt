@@ -1,1 +1,0 @@
-/home/ottafa/Dev/Mostafa-Mahmoud-Week2-Interactive-Dismissible-Lists/build/app/intermediates/cxx/debug/3t5w4k11/obj/arm64-v8a
