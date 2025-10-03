@@ -5,13 +5,16 @@ void main() {
 }
 
 class TaskManagerApp extends StatelessWidget {
-  const TaskManagerApp({Key? key}) : super(key: key);
+  const TaskManagerApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Task Manager',
-      theme: ThemeData(primarySwatch: Colors.blue, useMaterial3: true),
+      theme: ThemeData(
+        colorSchemeSeed: Colors.indigo,
+        brightness: Brightness.dark,
+      ),
       home: const TaskManagerHome(),
       debugShowCheckedModeBanner: false,
     );
@@ -47,7 +50,7 @@ class Task {
 }
 
 class TaskManagerHome extends StatefulWidget {
-  const TaskManagerHome({Key? key}) : super(key: key);
+  const TaskManagerHome({super.key});
 
   @override
   State<TaskManagerHome> createState() => _TaskManagerHomeState();
